@@ -3,18 +3,21 @@
 ## Katsiaryna Barysevich
 ### _Pre-junior JS/Front-End engineer_
 --------
-![Photo of me eating an ice-cream](60x20:./IMG_4206.JPG)
+![Photo of me eating an ice-cream](./IMG_4206.JPG =60x20)
 ### **Contacts**
+
 **Phone**: +375 29 3098838
 **E-mail**: k.b.germ1806@gmail.com 
 **Discord(RSSchool)**: Katsiaryna Barysevich (@kbgerm) 
-**Telegram**:[@kb_germ](https://t.me/kb_germ)
+**Telegram**: [@kb_germ](https://t.me/kb_germ)
 --------
 ### **About me**
+
 I'm a junior scientist in the National Botanical Garden, Minsk. I graduated as a microbiologist from Belarusian State University and i really like my speciality. Unfortunately, i don't work as a microbiologist because there are no work places.
 Now i'm trying to change my life by studying JS and Front-end. It is a challenge for me because i've never ever succeed in programming even in school, when we were trying to understand Pascal ABC. 
 --------
 ### **Strengths**
+
 * communicative skills
 * team player (i LOVE coop-games, i think it is a good example)
 * flexible mind
@@ -34,6 +37,7 @@ function multiply(a, b){
 ```
 --------
 ### **Experience**
+
 CV#1-rsschool
 --------
 ### **Education**
