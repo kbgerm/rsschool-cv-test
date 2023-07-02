@@ -2,7 +2,7 @@
 ## Katsiaryna Barysevich
 ### _Pre-junior JS/Front-End engineer_
 --------
-![Photo of me eating an ice-cream](./Iimgonline-com-ua-Resize-j14KlSrFuDeVj.jpg)
+![Photo of me eating an ice-cream](./imgonline-com-ua-Resize-j14KlSrFuDeVj.jpg)
 
 --------
 ### **Contacts**
