@@ -2,7 +2,9 @@
 ## Katsiaryna Barysevich
 ### _Pre-junior JS/Front-End engineer_
 --------
-![Photo of me eating an ice-cream](./IMG_4206.JPG)
+![Photo of me eating an ice-cream](./Iimgonline-com-ua-Resize-j14KlSrFuDeVj.jpg)
+
+--------
 ### **Contacts**
 
 **Phone** : +375 29 3098838
@@ -25,12 +27,14 @@ Now i'm trying to change my life by studying JS and Front-end. It is a challenge
 * team player (i LOVE coop-games, i think it is a good example)
 * flexible mind
 * creativity
+
 --------
 ### **Skills**
 * HTML5 (a bit)
 * CSS3 (a bit)
 * JS (even less than a bit)
 * Git/GitHub
+
 --------
 ### **Code example**
 ```
@@ -47,6 +51,7 @@ CV#1-rsschool
 * Belarusian State University (Biology faculty, microbiologist)
 * Stepik course (Основы HTML и CSS)
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
 --------
 ### **Languages**
 * Russian-native
